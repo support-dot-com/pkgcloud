@@ -61,7 +61,7 @@
     "eventemitter2": "0.4.x",
     "filed": "0.1.x",
     "gcloud": "^0.10.0",
-    "ip": "0.3.x",
+    "ip": "1.1.9",
     "mime": "1.2.x",
     "qs": "1.2.x",
     "request": "2.40.x",
